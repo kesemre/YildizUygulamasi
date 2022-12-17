@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class YıldızUygulamsı {
     public static void main(String[] args) {
         int n;
+        // deneme
         Scanner input = new Scanner(System.in);
         n = input.nextInt();
         for (int i = 1;i<=n; i++){
